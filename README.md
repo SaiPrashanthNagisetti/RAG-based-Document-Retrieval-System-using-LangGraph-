@@ -1,0 +1,1 @@
+Built a Retrieval-Augmented Generation (RAG) pipeline using LangGraph and LangChain to fetch context-aware answers from technical blogs. Used HuggingFace embeddings , and integrated AstraDB as the vector store for scalable semantic search. Implemented document loading, embedding generation, and natural language querying for real-time information retrieval.
